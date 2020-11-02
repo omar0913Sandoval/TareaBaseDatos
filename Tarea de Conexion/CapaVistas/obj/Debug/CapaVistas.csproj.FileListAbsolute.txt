@@ -1,0 +1,60 @@
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\bin\Debug\CapaVistas.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\bin\Debug\CapaVistas.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\bin\Debug\CapaVistas.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.FrmMenu.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmClientes.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmHome.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmProductos.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmActas.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmReportes.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmFacturas.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmUsuarios.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmConfiguraciones.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.FrameContenedores.FrmVisitasProgramadas.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.Dialogos.DlgProducto.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.Dialogos.DlgContacto.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.Dialogos.DlgCliente.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.FrmLogin.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\bin\Debug\CapaDatos.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\bin\Debug\CapaNegocio.dll
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\bin\Debug\CapaDatos.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\bin\Debug\CapaNegocio.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Tarea de Curso Base de Datos\CapaVistas\obj\Debug\CapaVistas.FrmSplash.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\bin\Debug\CapaVistas.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\bin\Debug\CapaVistas.exe
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\bin\Debug\CapaVistas.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\bin\Debug\CapaDatos.dll
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\bin\Debug\CapaNegocio.dll
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\bin\Debug\CapaDatos.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\bin\Debug\CapaNegocio.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.Dialogos.DlgCliente.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.Dialogos.DlgContacto.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.Dialogos.DlgProducto.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.FrameContenedores.FrmVisitasProgramadas.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmActas.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmClientes.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmConfiguraciones.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmFacturas.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmHome.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.FrmMenu.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmProductos.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmReportes.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.FrameMDI.FrmUsuarios.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.FrmLogin.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.FrmSplash.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.exe
+C:\Users\Lenovo\OneDrive\Escritorio\ConexionBD\CapaVistas\obj\Debug\CapaVistas.pdb
